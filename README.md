@@ -4,7 +4,7 @@ realized that using tidyverse's read_csv() --which is generally awesome and pref
 read.csv() does this right, fwiw
 
 ## read_csv_demo.R
-* script highlighting the issue
+* script highlighting the issue with using read_csv() without setting guess_max to something appropriate
 
 ## read_csv_issue_demo.csv
-* a csv that shows the issue (from a research project but all identifying info all stripped away)
+* a csv that has said issue (from a research project but all identifying info all stripped away)
