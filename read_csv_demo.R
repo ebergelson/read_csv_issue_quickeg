@@ -19,3 +19,5 @@ unique(bueno$part_of_speech)
 bueno2 <-  read.csv("~/Desktop/github/read_csv_issue_quickeg/read_csv_issue_demo.csv")
 
 unique(bueno2$part_of_speech)
+# [1] NA           "animal"     "food"       "beverage"   "object"     "outside"    "action"    
+# [8] "descriptor"
